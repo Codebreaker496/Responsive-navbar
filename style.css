@@ -17,6 +17,11 @@ html , body{
     height: 100%;
     width: 100%;
 }
+
+body{
+    overflow-x: hidden;
+}
+
 #main{
     height: 100%;
     width: 100%;
@@ -58,7 +63,7 @@ html , body{
 }
 
 .overlay h4{
-    font-family: 'Base';
+    font-family: 'Grotesk';
     font-size: 4vw;
     font-weight: 300;
 }
@@ -68,6 +73,8 @@ html , body{
     top: 5%;
     right: 5%;
     font-size: 3rem;
-    font-weight: 800;
+    font-weight: 600;
     cursor: pointer;
+    background-color: #ffffff;
+    border-radius: 50%;
 }
