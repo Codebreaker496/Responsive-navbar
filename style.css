@@ -43,6 +43,7 @@ body{
 #nav h1,i{
     font-weight: 800;
     font-size: 1.5rem;
+    cursor: pointer;
 }
 
 .overlay{
@@ -64,7 +65,7 @@ body{
 
 .overlay h4{
     font-family: 'Grotesk';
-    font-size: 4vw;
+    font-size: 3vw;
     font-weight: 300;
 }
 
@@ -72,7 +73,7 @@ body{
     position: absolute;
     top: 5%;
     right: 5%;
-    font-size: 3rem;
+    font-size: 3vw;
     font-weight: 600;
     cursor: pointer;
     background-color: #ffffff;
